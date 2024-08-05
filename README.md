@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao nosso perfil 💖
 
-<!--
-**GioDorta/GioDorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nós somos Giovana Cherutti e Maria Clara Dorta
 
-Here are some ideas to get you started:
+- Estamos estudando pelo [Alura](https://www.alura.com.br) ;
+- Estamos nos desenvolvendo na linguagem JavaScript;
+- Utilizamos esse espaço para a nossa organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato 📞
+
+giovanacherutti@hotmail.com
+
+mariaclaraduartedorta@gmail.com
+
+![](https://media1.tenor.com/m/DRgXad_JuuQAAAAC/bobitos-mimis.gif)
